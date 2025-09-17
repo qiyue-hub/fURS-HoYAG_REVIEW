@@ -46,6 +46,12 @@
 
 ## Bleeding region
 
+**Synergistic Bleeding Region and Point Detection in Surgical Videos**
+
+2025, arXiv
+
+[[pdf](https://arxiv.org/abs/2503.22174)]
+
 **An Automatic Bleeding-Rank System for Transurethral Resection of the Prostate Surgery Videos Using Machine Learning**
 
 2021, MDPI Diagnostics
@@ -61,6 +67,12 @@ Machine learning for early prediction of the infection in patients with urinary 
 [[pdf](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0317584&type=printable)]
 
 ## Background
+
+**Current and future applications of machine and deep learning in urology: a review of the literature on urolithiasis, renal cell carcinoma, and bladder and prostate cancer**
+
+2020, World Journal of Urology
+
+[[pdf](https://link.springer.com/content/pdf/10.1007/s00345-019-03000-5.pdf)]
 
 **Support Vector Machine-Based Analysis of Holmium Laser Lithotripsy in Treatment of Urinary Calculus from Ultrasound Images**
 
