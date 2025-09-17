@@ -44,6 +44,14 @@
 
 [[project](https://github.com/Sachintha-Samarathunga/Kidney-Stones-Detection-System)]
 
+## Bleeding region
+
+**An Automatic Bleeding-Rank System for Transurethral Resection of the Prostate Surgery Videos Using Machine Learning**
+
+2021, MDPI Diagnostics
+
+[[pdf](https://www.mdpi.com/2075-4418/11/10/1767)]
+
 ## holmium laser lithotripsy
 
 Machine learning for early prediction of the infection in patients with urinary stone after treatment of holmium laser lithotripsy
