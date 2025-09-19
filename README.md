@@ -40,6 +40,12 @@
 
 [[pdf](https://www.auajournals.org/doi/epdf/10.1097/JU.0000000000002581.03)] 
 
+**基于3DSlicer 软件的三维可视化技术在输尿管软镜钬激光碎石取石术中的应用**
+
+2022, 泌尿外科杂志
+
+[[pdf](https://github.com/qiyue-hub/fURS-HoYAG_REVIEW/blob/main/pdfs/%E5%9F%BA%E4%BA%8E3DSlicer%E8%BD%AF%E4%BB%B6%E7%9A%84%E4%B8%89%E7%BB%B4%E5%8F%AF%E8%A7%86%E5%8C%96%E6%8A%80%E6%9C%AF%E5%9C%A8%E8%BE%93%E5%B0%BF%E7%AE%A1%E8%BD%AF%E9%95%9C%E9%92%AC%E6%BF%80%E5%85%89%E7%A2%8E%E7%9F%B3%E5%8F%96%E7%9F%B3%E6%9C%AF%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.pdf)]
+
 (project) **Kidney Stones Detection System Through AI-Enhanced Image Processing**
 
 2024
@@ -133,5 +139,15 @@
 2021, fURS+Ho:YAG Effectiveness
 
 [[pdf](https://onlinelibrary.wiley.com/doi/epdf/10.1155/2021/9880332)]
+
+
+
+## Others
+
+**机器学习模型在预测肾结石输尿管软镜碎石术后早期结石清除率中的应用**
+
+2019, 北京大学学报（医学版）
+
+[[pdf](https://github.com/qiyue-hub/fURS-HoYAG_REVIEW/blob/main/pdfs/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%A8%A1%E5%9E%8B%E5%9C%A8%E9%A2%84%E6%B5%8B%E8%82%BE%E7%BB%93%E7%9F%B3%E8%BE%93%E5%B0%BF%E7%AE%A1%E8%BD%AF%E9%95%9C%E7%A2%8E%E7%9F%B3%E6%9C%AF%E5%90%8E%E6%97%A9%E6%9C%9F%E7%BB%93%E7%9F%B3%E6%B8%85%E9%99%A4%E7%8E%87%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.pdf)]
 
 
