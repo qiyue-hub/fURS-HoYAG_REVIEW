@@ -1,5 +1,7 @@
 # fURS-HoYAG_REVIEW
 
+
+
 ## Kidney Stone Segmentation
 
 **Assessing the Generalization Performance of SAM for Ureteroscopy Scene Understanding**
@@ -44,6 +46,8 @@
 
 [[project](https://github.com/Sachintha-Samarathunga/Kidney-Stones-Detection-System)]
 
+
+
 ## Bleeding region
 
 **Synergistic Bleeding Region and Point Detection in Surgical Videos**
@@ -58,15 +62,61 @@
 
 [[pdf](https://www.mdpi.com/2075-4418/11/10/1767)]
 
+
+
 ## holmium laser lithotripsy
 
-Machine learning for early prediction of the infection in patients with urinary stone after treatment of holmium laser lithotripsy
+**Fluorescence-guided laser lithotripsy: Estimation of the potential effectiveness and safety increase based on first clinical data**
+
+2023, J Biophotonics
+
+[[pdf](https://onlinelibrary.wiley.com/doi/10.1002/jbio.202300044)]
+
+**A warning system for urolithiasis via retrograde intrarenal surgery using machine learning: an experimental study**
+
+2022, BMC Urol
+
+[[pdf](https://bmcurol.biomedcentral.com/articles/10.1186/s12894-022-01032-5)]
+
+**Laser-guided real-time automatic target identification for endoscopic stone lithotripsy: a two-arm in vivo porcine comparison study**
+
+2021, World Journal of Urology
+
+[[pdf](https://link.springer.com/article/10.1007/s00345-020-03452-0)]
+
+**Machine learning for early prediction of the infection in patients with urinary stone after treatment of holmium laser lithotripsy**
 
 2025, PLoS One
 
 [[pdf](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0317584&type=printable)]
 
-## Background
+
+
+## Review
+
+**Evaluation of objective tools and artificial intelligence in robotic surgery technical skills assessment: a systematic review**
+
+2024, BJS
+
+[[pdf](https://academic.oup.com/bjs/article/111/1/znad331/7407357)]
+
+**Artificial intelligence in urolithiasis: a systematic review of utilization and effectiveness**
+
+2024, World Journal of Urology
+
+[[pdf](https://link.springer.com/article/10.1007/s00345-024-05268-8)]
+
+**Advances in lasers for the minimally invasive treatment of upper and lower urinary tract conditions: a systematic review**
+
+2023, World Journal of Urology 
+
+[[pdf](https://link.springer.com/article/10.1007/s00345-023-04669-5)]
+
+**Transforming urinary stone disease management by artificial intelligence-based methods: A comprehensive review**
+
+2023, Asian Journal of Urology
+
+[[pdf](https://www.sciencedirect.com/science/article/pii/S2214388223000383)]
 
 **Current and future applications of machine and deep learning in urology: a review of the literature on urolithiasis, renal cell carcinoma, and bladder and prostate cancer**
 
@@ -74,14 +124,14 @@ Machine learning for early prediction of the infection in patients with urinary 
 
 [[pdf](https://link.springer.com/content/pdf/10.1007/s00345-019-03000-5.pdf)]
 
+
+
+## Background
+
 **Support Vector Machine-Based Analysis of Holmium Laser Lithotripsy in Treatment of Urinary Calculus from Ultrasound Images**
 
 2021, fURS+Ho:YAG Effectiveness
 
 [[pdf](https://onlinelibrary.wiley.com/doi/epdf/10.1155/2021/9880332)]
 
-**Evaluation of objective tools and artificial intelligence in robotic surgery technical skills assessment: a systematic review **
 
-2024, BJS
-
-[[pdf](https://academic.oup.com/bjs/article/111/1/znad331/7407357)]
