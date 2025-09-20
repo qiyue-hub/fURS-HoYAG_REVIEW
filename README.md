@@ -156,4 +156,10 @@
 
 [[pdf](https://github.com/qiyue-hub/fURS-HoYAG_REVIEW/blob/main/pdfs/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%A8%A1%E5%9E%8B%E5%9C%A8%E9%A2%84%E6%B5%8B%E8%82%BE%E7%BB%93%E7%9F%B3%E8%BE%93%E5%B0%BF%E7%AE%A1%E8%BD%AF%E9%95%9C%E7%A2%8E%E7%9F%B3%E6%9C%AF%E5%90%8E%E6%97%A9%E6%9C%9F%E7%BB%93%E7%9F%B3%E6%B8%85%E9%99%A4%E7%8E%87%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.pdf)]
 
+**Location embedding based pairwise distance learning for fine-grained diagnosis of urinary stones**
+
+2024, MICCAI
+
+[[pdf](https://papers.miccai.org/miccai-2024/paper/1064_paper.pdf)]
+
 
