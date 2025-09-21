@@ -46,11 +46,23 @@
 
 [[pdf](https://github.com/qiyue-hub/fURS-HoYAG_REVIEW/blob/main/pdfs/%E5%9F%BA%E4%BA%8E3DSlicer%E8%BD%AF%E4%BB%B6%E7%9A%84%E4%B8%89%E7%BB%B4%E5%8F%AF%E8%A7%86%E5%8C%96%E6%8A%80%E6%9C%AF%E5%9C%A8%E8%BE%93%E5%B0%BF%E7%AE%A1%E8%BD%AF%E9%95%9C%E9%92%AC%E6%BF%80%E5%85%89%E7%A2%8E%E7%9F%B3%E5%8F%96%E7%9F%B3%E6%9C%AF%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.pdf)]
 
+**Multi-class motion-based semantic segmentation for ureteroscopy and laser lithotripsy**
+
+2022, Computerized Medical Imaging and Graphics
+
+[[pdf](https://arxiv.org/pdf/2104.01268)]
+
 **MI-UNet: Improved Segmentation in Ureteroscopy**
 
 2020, ISBI
 
 [[pdf](https://ieeexplore.ieee.org/document/9098608)]
+
+**U-Net: Convolutional Networks for Biomedical Image Segmentation**
+
+2015, MICCAI
+
+[[pdf](https://link.springer.com/chapter/10.1007/978-3-319-24574-4_28)]
 
 (project) **Kidney Stones Detection System Through AI-Enhanced Image Processing**
 
@@ -162,4 +174,14 @@
 
 [[pdf](https://papers.miccai.org/miccai-2024/paper/1064_paper.pdf)]
 
+**Deep learning computer vision algorithm for detecting kidney stone composition**
 
+2020, BJU Int
+
+[[pdf](https://bjui-journals.onlinelibrary.wiley.com/doi/10.1111/bju.15035)]
+
+**Assessing deep learning methods for the identification of kidney stones in endoscopic images**
+
+2021, EMBC
+
+[[pdf](https://ieeexplore.ieee.org/document/9630211)]
