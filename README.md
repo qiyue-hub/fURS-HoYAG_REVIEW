@@ -8,7 +8,13 @@
 
 2025, Medical Image Understanding and Analysis
 
-[[pdf](https://link.springer.com/chapter/10.1007/978-3-031-98691-8_18)]
+[[pdf](https://link.springer.com/chapter/10.1007/978-3-031-98691-8_18)(Unaccesible)]
+
+**On the In Vivo Recognition of Kidney Stones Using Machine Learning**
+
+2024, IEEE Access
+
+[[pdf](https://ieeexplore.ieee.org/document/10384337)]
 
 **Deep Learning-Based Renal Stone Detection: A Comprehensive Study and Performance Analysis**
 
@@ -32,7 +38,13 @@
 
 2023, Journal of Endourology
 
-[[pdf (Unaccessible)](https://www.liebertpub.com/doi/abs/10.1089/end.2022.0511)] [No Code]
+[[pdf](https://www.liebertpub.com/doi/abs/10.1089/end.2022.0511)(Unaccessible)] [No Code]
+
+**Deep morphological recognition of kidney stones using intra-operative endoscopic digital videos**
+
+2022, Physics and Engineering in Medicine
+
+[[pdf](https://iopscience.iop.org/article/10.1088/1361-6560/ac8592)]
 
 **AUTOMATED SEGMENTATION OF KIDNEY STONES DURING URETEROSCOPY USING COMPUTER VISION TECHNIQUES**
 
@@ -51,6 +63,10 @@
 2022, Computerized Medical Imaging and Graphics
 
 [[pdf](https://arxiv.org/pdf/2104.01268)]
+
+**Evaluation and understanding of automated urinary stone recognition methods**
+
+2022, BJU Int
 
 **MI-UNet: Improved Segmentation in Ureteroscopy**
 
@@ -73,6 +89,12 @@
 
 
 ## Bleeding region
+
+**Effective deep learning for semantic segmentation based bleeding zone detection in capsule endoscopy images**
+
+2018, ICIP
+
+
 
 **Synergistic Bleeding Region and Point Detection in Surgical Videos**
 
@@ -185,3 +207,7 @@
 2021, EMBC
 
 [[pdf](https://ieeexplore.ieee.org/document/9630211)]
+
+**Evaluation and understanding of automated urinary stone recognition methods**
+
+**Towards automatic recognition of pure and mixed stones using intra-operative endoscopic digital images**
