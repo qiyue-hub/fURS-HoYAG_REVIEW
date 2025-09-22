@@ -211,3 +211,11 @@
 **Evaluation and understanding of automated urinary stone recognition methods**
 
 **Towards automatic recognition of pure and mixed stones using intra-operative endoscopic digital images**
+
+**Deep morphological recognition of kidney stones using intra-operative endoscopic digital videos**
+
+[[pdf](Deep morphological recognition of kidney stones using intra-operative endoscopic digital videos)]
+
+**On the In Vivo Recognition of Kidney Stones Using Machine Learning**
+
+[[pdf](https://ieeexplore.ieee.org/document/10384337)]
