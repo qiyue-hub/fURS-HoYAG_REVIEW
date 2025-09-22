@@ -58,12 +58,6 @@
 
 [[pdf](https://www.auajournals.org/doi/epdf/10.1097/JU.0000000000002581.03)] 
 
-**基于3DSlicer 软件的三维可视化技术在输尿管软镜钬激光碎石取石术中的应用**
-
-2022, 泌尿外科杂志
-
-[[pdf](https://github.com/qiyue-hub/fURS-HoYAG_REVIEW/blob/main/pdfs/%E5%9F%BA%E4%BA%8E3DSlicer%E8%BD%AF%E4%BB%B6%E7%9A%84%E4%B8%89%E7%BB%B4%E5%8F%AF%E8%A7%86%E5%8C%96%E6%8A%80%E6%9C%AF%E5%9C%A8%E8%BE%93%E5%B0%BF%E7%AE%A1%E8%BD%AF%E9%95%9C%E9%92%AC%E6%BF%80%E5%85%89%E7%A2%8E%E7%9F%B3%E5%8F%96%E7%9F%B3%E6%9C%AF%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.pdf)]
-
 **Multi-class motion-based semantic segmentation for ureteroscopy and laser lithotripsy**
 
 2022, Computerized Medical Imaging and Graphics
@@ -73,6 +67,12 @@
 **Evaluation and understanding of automated urinary stone recognition methods**
 
 2022, BJU Int
+
+**Endoscopic Segmentation of Kidney Stone based on Transfer Learning**
+
+2021, CCC
+
+[[pdf](https://ieeexplore.ieee.org/abstract/document/9550652)]
 
 **MI-UNet: Improved Segmentation in Ureteroscopy**
 
@@ -91,6 +91,28 @@
 2024
 
 [[project](https://github.com/Sachintha-Samarathunga/Kidney-Stones-Detection-System)]
+
+
+
+## Organ Segmentation
+
+**Real-time auto-segmentation of the ureter in video sequences of gynaecological laparoscopic surgery**
+
+2023, IJMTCAS
+
+[[pdf](https://cris.maastrichtuniversity.nl/ws/portalfiles/portal/182942148/Dekker-2023-Real_time-auto_segmentation-of.pdf)]  [[code](https://gitlab.com/UM-CDS/Surgical_video_segmentation)]
+
+**基于3DSlicer 软件的三维可视化技术在输尿管软镜钬激光碎石取石术中的应用**
+
+2022, 泌尿外科杂志
+
+[[pdf](https://github.com/qiyue-hub/fURS-HoYAG_REVIEW/blob/main/pdfs/%E5%9F%BA%E4%BA%8E3DSlicer%E8%BD%AF%E4%BB%B6%E7%9A%84%E4%B8%89%E7%BB%B4%E5%8F%AF%E8%A7%86%E5%8C%96%E6%8A%80%E6%9C%AF%E5%9C%A8%E8%BE%93%E5%B0%BF%E7%AE%A1%E8%BD%AF%E9%95%9C%E9%92%AC%E6%BF%80%E5%85%89%E7%A2%8E%E7%9F%B3%E5%8F%96%E7%9F%B3%E6%9C%AF%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.pdf)]
+
+**Kidney edge detection in laparoscopic image data for computer-assisted surgery**
+
+2020, IJCARS
+
+[[pdf](https://link.springer.com/article/10.1007/s11548-019-02102-0)]  [[code](https://github.com/ghattab/kidney-edge-detection/)]
 
 
 
