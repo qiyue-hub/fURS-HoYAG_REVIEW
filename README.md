@@ -10,6 +10,12 @@
 
 [[pdf](https://link.springer.com/chapter/10.1007/978-3-031-98691-8_18)(Unaccesible)]
 
+**SegPrompt: Using Segmentation Map as a Better Prompt to Finetune Deep Models for Kidney Stone Classification**
+
+2024, PMLR
+
+[[pdf](https://arxiv.org/pdf/2303.08303)] [[WebPage](https://proceedings.mlr.press/v227/zhu24b.html)]
+
 **On the In Vivo Recognition of Kidney Stones Using Machine Learning**
 
 2024, IEEE Access
