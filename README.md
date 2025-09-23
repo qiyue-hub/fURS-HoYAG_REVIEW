@@ -118,21 +118,23 @@
 
 ## Bleeding region
 
-**Effective deep learning for semantic segmentation based bleeding zone detection in capsule endoscopy images**
-
-2018, ICIP
-
 **Synergistic Bleeding Region and Point Detection in Surgical Videos**
 
 2025, arXiv
 
 [[pdf](https://arxiv.org/abs/2503.22174)]
 
-**Automated Capture of Intraoperative Adverse Events Using Artificial Intelligence: A Systematic Review and Meta-Analysis**
+**Automatic bleeding detection in laparoscopic surgery based on a faster region-based convolutional neural network**
 
-2023, J. Clin. Med.
+2022, Ann Transl Med
 
-[[pdf](https://www.mdpi.com/2077-0383/12/4/1687)]
+[[pdf](https://atm.amegroups.org/article/view/95011/html)]
+
+**Intraoperative Adverse Event Detection in Laparoscopic Surgery: Stabilized Multi-Stage Temporal Convolutional Network with Focal-Uncertainty Loss**
+
+2021, PMLR
+
+[[pdf](https://proceedings.mlr.press/v149/wei21a/wei21a.pdf)]  [[code](https://github.com/ICSSresearch/IAE-video)]
 
 **An Automatic Bleeding-Rank System for Transurethral Resection of the Prostate Surgery Videos Using Machine Learning**
 
@@ -140,6 +142,15 @@
 
 [[pdf](https://www.mdpi.com/2075-4418/11/10/1767)]
 
+**Effective deep learning for semantic segmentation based bleeding zone detection in capsule endoscopy images**
+
+2018, ICIP
+
+[[pdf](https://ieeexplore.ieee.org/document/8451300)]
+
+**Effect of feature selection on machine learning algorithms for more accurate predictor of surgical outcomes in benign prostatic hyperplasia cases (BPH)**
+
+2011, CIMSA
 
 
 ## holmium laser lithotripsy
@@ -172,6 +183,12 @@
 
 ## Review
 
+**Current advances in the use of artificial intelligence in predicting and managing urological complications**
+
+2024, International Urology and Nephrology
+
+[[pdf](https://link.springer.com/article/10.1007/s11255-024-04149-8)]
+
 **Evaluation of objective tools and artificial intelligence in robotic surgery technical skills assessment: a systematic review**
 
 2024, BJS
@@ -195,6 +212,12 @@
 2023, Asian Journal of Urology
 
 [[pdf](https://www.sciencedirect.com/science/article/pii/S2214388223000383)]
+
+**Automated Capture of Intraoperative Adverse Events Using Artificial Intelligence: A Systematic Review and Meta-Analysis**
+
+2023, J. Clin. Med.
+
+[[pdf](https://www.mdpi.com/2077-0383/12/4/1687)]
 
 **Current and future applications of machine and deep learning in urology: a review of the literature on urolithiasis, renal cell carcinoma, and bladder and prostate cancer**
 
