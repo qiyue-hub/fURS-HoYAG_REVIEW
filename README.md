@@ -122,13 +122,17 @@
 
 2018, ICIP
 
-
-
 **Synergistic Bleeding Region and Point Detection in Surgical Videos**
 
 2025, arXiv
 
 [[pdf](https://arxiv.org/abs/2503.22174)]
+
+**Automated Capture of Intraoperative Adverse Events Using Artificial Intelligence: A Systematic Review and Meta-Analysis**
+
+2023, J. Clin. Med.
+
+[[pdf](https://www.mdpi.com/2077-0383/12/4/1687)]
 
 **An Automatic Bleeding-Rank System for Transurethral Resection of the Prostate Surgery Videos Using Machine Learning**
 
