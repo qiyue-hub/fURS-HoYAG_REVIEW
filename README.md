@@ -200,7 +200,7 @@
 
 2025, PLoS One
 
-[[pdf](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0317584&type=printable)]
+[[pdf](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317584)]
 
 
 
@@ -214,9 +214,15 @@
 
 **Evaluation of objective tools and artificial intelligence in robotic surgery technical skills assessment: a systematic review**
 
-2024, BJS
+2024, BJS, Simulators (DVSS)
 
 [[pdf](https://academic.oup.com/bjs/article/111/1/znad331/7407357)]
+
+**Virtual reality simulations in robotic surgery training: a systematic review and meta-analysis**
+
+2024, Journal of Robotic Surgery
+
+[[pdf](https://link.springer.com/article/10.1007/s11701-024-02187-z)]
 
 **Artificial intelligence in urolithiasis: a systematic review of utilization and effectiveness**
 
@@ -286,6 +292,18 @@
 
 [[pdf](https://ieeexplore.ieee.org/document/9630211)]
 
+**A Randomized Comparison of 2 Robotic Virtual Reality Simulators and Evaluation of Trainees' Skills Transfer to a Simulated Robotic Urethrovesical Anastomosis Task**
+
+2018, Laparoscopy and Robotics
+
+[[pdf](https://www.goldjournal.net/article/S0090-4295(17)31056-7/fulltext)]
+
 **Evaluation and understanding of automated urinary stone recognition methods**
 
 **Towards automatic recognition of pure and mixed stones using intra-operative endoscopic digital images**
+
+**A retrospective study using machine learning to develop predictive model to identify urinary infection stones in vivo**
+
+2023, Urolithiasis
+
+[[pdf](https://link.springer.com/article/10.1007/s00240-023-01457-z)]
