@@ -153,6 +153,23 @@
 2011, CIMSA
 
 
+
+## Clearness of Operating Field
+
+**Clearness of operating field: a surrogate for surgical skills on in vivo clinical data**
+
+2020, IJCARS
+
+[[pdf](https://pubmed.ncbi.nlm.nih.gov/33044734/)]
+
+**Surgical Skill Assessment on In-Vivo Clinical Data via the Clearness of Operating Field**
+
+2019, MICCAI
+
+[[pdf](https://link.springer.com/chapter/10.1007/978-3-030-32254-0_53)]
+
+
+
 ## holmium laser lithotripsy
 
 **Fluorescence-guided laser lithotripsy: Estimation of the potential effectiveness and safety increase based on first clinical data**
