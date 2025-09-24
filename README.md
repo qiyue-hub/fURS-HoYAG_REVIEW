@@ -172,6 +172,12 @@
 
 ## holmium laser lithotripsy
 
+**High-power Ho:YAG lithotripsy increases subclinical renal stress: a prospective randomized KIM-1 study**
+
+2025, Urolithiasis
+
+[[pdf](https://link.springer.com/article/10.1007/s00240-025-01816-y)]
+
 **Fluorescence-guided laser lithotripsy: Estimation of the potential effectiveness and safety increase based on first clinical data**
 
 2023, J Biophotonics
